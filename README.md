@@ -1,9 +1,9 @@
+![Banner](https://github.com/Naitikkd7/Naitikkd7/raw/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Naitik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="GIF" width="550" align="right">
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
