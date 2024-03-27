@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naitik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width ="400" src="C:\Users\Naitik\OneDrive - St. Mary's School\Desktop\n8agw6z2smyb1"/>
+<img align="right" alt="coding" width ="400" src="https://www.shutterstock.com/shutterstock/videos/1106499727/thumb/1.jpg?ip=x480"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/naitikkd7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naitikkd7" height="30" width="40" /></a>
