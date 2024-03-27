@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naitik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width=400 src="![n8agw6z2smyb1](https://github.com/Naitikkd7/Naitikkd7/assets/107754767/43ec3749-7e11-4ce1-bc34-a55848768978)"/>
+![n8agw6z2smyb1](https://github.com/Naitikkd7/Naitikkd7/assets/107754767/43ec3749-7e11-4ce1-bc34-a55848768978)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
